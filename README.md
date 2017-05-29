@@ -2,7 +2,7 @@
 An advanced version of Conways Game of Life developed in Java using SWING.
 
 This project took over two and a half weeks to develop.
-The Java File consits of over 1000 lines of code.
+The Java File consists of over 1000 lines of code.
 
 ## Future Improvements
 In the furture I intend to add multiple features including:
