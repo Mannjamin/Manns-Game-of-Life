@@ -22,7 +22,7 @@ If you are a student and intend to use this code as a reference for assignments.
 
 Link to this Repository: https://github.com/Mannjamin/Manns-Game-of-Life
 
-[Link to Game of Life Definition:] (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[Link to Game of Life Definition:](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 
 
