@@ -20,9 +20,19 @@ In the furture I intend to add multiple features including:
 This code is free for all to view. All I ask is for you to possibly give me a Star if you're impressed or interested by the code.
 If you are a student and intend to use this code as a reference for assignments. You must properly reference this site and code as a reference. You can find an example of a reference within the code itself.
 
-Link to this Repository: https://github.com/Mannjamin/Manns-Game-of-Life
+## Additional Links:
+Link to the Updated  Repository: [Mann's Game of Life Updated  Version](https://github.com/Mannjamin/Manns-Game-of-Life-Updated-Version)
 
-[Link to Game of Life Definition:](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+Link to the Original Repository: [Mann's Game of Life Original Version](https://github.com/Mannjamin/Manns-Game-of-Life-Original-Version-)
+
+Link to the Game of Life Wiki:   [Link to Game of Life Definition:](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
+## Licencing:
+Both my Game of Life Projects are subject to the MIT Licence.
+
+The MIT Licence lets people do anything they want with my code as long as they:
+* Provide Attibution in the form of a reference within their updated material.
+* Take responcibility for any malfunctions within the code after their edits. I am not liable to any damage to my original code.
 
 
 
