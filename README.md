@@ -1,4 +1,4 @@
-# Manns-Game-of-Life
+# Manns-Game-of-Life-Original-Version
 An advanced version of Conways Game of Life developed in Java using SWING.
 
 This project took over two and a half weeks to develop.
