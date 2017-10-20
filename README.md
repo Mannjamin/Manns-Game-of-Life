@@ -1,6 +1,8 @@
 # Manns-Game-of-Life-Original-Version
 An advanced version of Conways Game of Life developed in Java using SWING.
 
+![Mann's Original Game of Life:](https://media.discordapp.net/attachments/334011383140188161/370885888198049792/unknown.png?width=1214&height=683)
+
 This project took over two and a half weeks to develop.
 The Java File consists of over 1000 lines of code.
 
