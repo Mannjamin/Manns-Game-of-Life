@@ -31,7 +31,8 @@ Link to the Game of Life Wiki:   [Link to Game of Life Definition:](https://en.w
 
 ## Licencing:
 Both my Game of Life Projects are Open Source, meaning you're welcome to do whatever you like to this code. 
-All I ask, is that you mention me as a contributer or original author of this code, should you choose to use it. 
+All I ask, is that you mention me as a contributer or original author of this code, should you choose to use it.
+I hold no responcibility for any errors or malfunctions you create with this code. If you break it, you should know how to fix it.
 
 
 
