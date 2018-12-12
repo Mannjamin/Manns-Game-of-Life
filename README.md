@@ -30,11 +30,8 @@ Link to the Original Repository: [Mann's Game of Life Original Version](https://
 Link to the Game of Life Wiki:   [Link to Game of Life Definition:](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## Licencing:
-Both my Game of Life Projects are subject to the MIT Licence.
-
-The MIT Licence lets people do anything they want with my code as long as they:
-* Provide Attibution in the form of a reference within their updated material.
-* Take responcibility for any malfunctions within the code after their edits. I am not liable to any damage to my original code.
+Both my Game of Life Projects are Open Source, meaning you're welcome to do whatever you like to this code. 
+All I ask, is that you mention me as a contributer or original author of this code, should you choose to use it. 
 
 
 
